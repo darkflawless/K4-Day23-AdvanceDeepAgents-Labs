@@ -1,0 +1,402 @@
+[
+  {
+    "n": 1,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2210.03629-hf",
+    "url": "https://huggingface.co/papers/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2307.16789",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2307.16789-hf",
+    "url": "https://huggingface.co/papers/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "openai-function-calling-guide",
+    "url": "https://developers.openai.com/api/docs/guides/function-calling",
+    "title": "Function calling - OpenAI API documentation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "llama-cpp-function-calling",
+    "url": "https://github.com/ggml-org/llama.cpp/blob/master/docs/function-calling.md",
+    "title": "function-calling.md - llama.cpp tool-use chat template documentation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "bfcl-blog",
+    "url": "https://gorilla.cs.berkeley.edu/blogs/8_berkeley_function_calling_leaderboard",
+    "title": "Berkeley Function Calling Leaderboard (BFCL)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2406.12045",
+    "url": "https://arxiv.org/abs/2406.12045",
+    "title": "tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "date": "2024-06-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2509.02547",
+    "url": "https://huggingface.co/papers/2509.02547",
+    "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
+    "date": "2025-09-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2507.02825",
+    "url": "https://huggingface.co/papers/2507.02825",
+    "title": "Establishing Best Practices for Building Rigorous Agentic Benchmarks",
+    "date": "2025-07-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2406.13352",
+    "url": "https://arxiv.org/abs/2406.13352",
+    "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "date": "2024-06-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "mcp-spec",
+    "url": "https://modelcontextprotocol.io/specification/2026-07-28",
+    "title": "Specification - Model Context Protocol (MCP)",
+    "date": "2026-07-28",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "a2a-protocol-spec",
+    "url": "https://a2a-protocol.org/latest/specification/",
+    "title": "Agent2Agent (A2A) Protocol Specification",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2201.11903",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "date": "2022-01-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2305.04091",
+    "url": "https://arxiv.org/abs/2305.04091",
+    "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+    "date": "2023-05-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2305.15334",
+    "url": "https://arxiv.org/abs/2305.15334",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2503.01763",
+    "url": "https://huggingface.co/papers/2503.01763",
+    "title": "Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models",
+    "date": "2025-03-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2510.19791",
+    "url": "https://huggingface.co/papers/2510.19791",
+    "title": "ToolDreamer: Instilling LLM Reasoning Into Tool Retrievers",
+    "date": "2025-10-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2407.00121",
+    "url": "https://huggingface.co/papers/2407.00121",
+    "title": "Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks",
+    "date": "2024-06-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2305.11554",
+    "url": "https://arxiv.org/abs/2305.11554",
+    "title": "ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings",
+    "date": "2023-05-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2406.18532",
+    "url": "https://huggingface.co/papers/2406.18532",
+    "title": "Symbolic Learning Enables Self-Evolving Agents",
+    "date": "2024-06-26",
+    "source": "hf-daily"
+  },
+  {
+    "n": 23,
+    "id": "2401.17464",
+    "url": "https://huggingface.co/papers/2401.17464",
+    "title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+    "date": "2024-01-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2303.17651",
+    "url": "https://arxiv.org/abs/2303.17651",
+    "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+    "date": "2023-03-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2303.11366",
+    "url": "https://huggingface.co/papers/2303.11366",
+    "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+    "date": "2023-03-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 26,
+    "id": "2501.11425",
+    "url": "https://huggingface.co/papers/2501.11425",
+    "title": "Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training",
+    "date": "2025-01-20",
+    "source": "hf-daily"
+  },
+  {
+    "n": 27,
+    "id": "2305.10601",
+    "url": "https://arxiv.org/abs/2305.10601",
+    "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+    "date": "2023-05-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 28,
+    "id": "2310.04406",
+    "url": "https://arxiv.org/abs/2310.04406",
+    "title": "Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models",
+    "date": "2023-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "2405.13966",
+    "url": "https://huggingface.co/papers/2405.13966",
+    "title": "On the Brittle Foundations of ReAct Prompting for Agentic Large Language Models",
+    "date": "2024-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 30,
+    "id": "2408.04682",
+    "url": "https://arxiv.org/abs/2408.04682",
+    "title": "ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities",
+    "date": "2024-08-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 31,
+    "id": "patil25a",
+    "url": "https://proceedings.mlr.press/v267/patil25a.html",
+    "title": "The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models",
+    "date": "2025-07-13",
+    "source": "web"
+  },
+  {
+    "n": 32,
+    "id": "2304.08244",
+    "url": "https://huggingface.co/papers/2304.08244",
+    "title": "API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs",
+    "date": "2023-04-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 33,
+    "id": "2307.13854",
+    "url": "https://arxiv.org/abs/2307.13854",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2023-07-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "2404.07972",
+    "url": "https://arxiv.org/abs/2404.07972",
+    "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+    "date": "2024-04-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 35,
+    "id": "2311.12983",
+    "url": "https://arxiv.org/abs/2311.12983",
+    "title": "GAIA: a benchmark for General AI Assistants",
+    "date": "2023-11-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 36,
+    "id": "2310.06770",
+    "url": "https://arxiv.org/abs/2310.06770",
+    "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+    "date": "2023-10-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 37,
+    "id": "2412.05467",
+    "url": "https://huggingface.co/papers/2412.05467",
+    "title": "The BrowserGym Ecosystem for Web Agent Research",
+    "date": "2024-12-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 38,
+    "id": "2504.01382",
+    "url": "https://arxiv.org/abs/2504.01382",
+    "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+    "date": "2025-04-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 39,
+    "id": "2509.01055",
+    "url": "https://huggingface.co/papers/2509.01055",
+    "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use",
+    "date": "2025-09-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 40,
+    "id": "2602.00994",
+    "url": "https://huggingface.co/papers/2602.00994",
+    "title": "Reasoning and Tool-use Compete in Agentic RL: From Quantifying Interference to Disentangled Tuning",
+    "date": "2026-02-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 41,
+    "id": "2503.23278",
+    "url": "https://huggingface.co/papers/2503.23278",
+    "title": "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions",
+    "date": "2025-03-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 42,
+    "id": "2508.12538",
+    "url": "https://huggingface.co/papers/2508.12538",
+    "title": "Systematic Analysis of MCP Security",
+    "date": "2025-08-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 43,
+    "id": "2506.01333",
+    "url": "https://huggingface.co/papers/2506.01333",
+    "title": "ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP)",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 44,
+    "id": "anthropic-multi-agent-research",
+    "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+    "title": "How we built our multi-agent research system - Anthropic",
+    "date": "2025-06-13",
+    "source": "web"
+  },
+  {
+    "n": 45,
+    "id": "cognition-dont-build-multi-agents",
+    "url": "https://cognition.com/blog/dont-build-multi-agents",
+    "title": "Don't Build Multi-Agents - Cognition",
+    "date": "2025-06-12",
+    "source": "web"
+  },
+  {
+    "n": 46,
+    "id": "2602.01011",
+    "url": "https://huggingface.co/papers/2602.01011",
+    "title": "Multi-Agent Teams Hold Experts Back",
+    "date": "2026-02-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 47,
+    "id": "2503.13657",
+    "url": "https://huggingface.co/papers/2503.13657",
+    "title": "Why Do Multi-Agent LLM Systems Fail?",
+    "date": "2025-03-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 48,
+    "id": "2605.22949",
+    "url": "https://huggingface.co/papers/2605.22949",
+    "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 49,
+    "id": "2512.22087",
+    "url": "https://huggingface.co/papers/2512.22087",
+    "title": "Context as a Tool: Context Management for Long-Horizon SWE-Agents",
+    "date": "2025-12-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 50,
+    "id": "2507.05257",
+    "url": "https://huggingface.co/papers/2507.05257",
+    "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions (MemoryAgentBench)",
+    "date": "2025-07-07",
+    "source": "hf-search"
+  }
+]

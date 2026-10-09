@@ -1,0 +1,26 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "model": "deepseek-chat",
+  "elapsed_s": 1770.5,
+  "subagent_calls": 9,
+  "tool_calls": {
+    "ls": 4,
+    "read_file": 9,
+    "write_todos": 5,
+    "task": 9,
+    "execute": 20,
+    "write_file": 3,
+    "edit_file": 8
+  },
+  "tokens": {
+    "input": 2661903,
+    "output": 28339
+  },
+  "n_sources": 84,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

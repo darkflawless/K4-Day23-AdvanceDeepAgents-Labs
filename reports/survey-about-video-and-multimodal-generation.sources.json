@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "id": "web-sora",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators (Sora technical report)",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "arxiv-2204.03458",
+    "url": "https://arxiv.org/abs/2204.03458",
+    "title": "Video Diffusion Models (VDM)",
+    "date": "2022-04-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "arxiv-2210.02303",
+    "url": "https://arxiv.org/abs/2210.02303",
+    "title": "Imagen Video: High Definition Video Generation with Diffusion Models",
+    "date": "2022-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "arxiv-2504.16081",
+    "url": "https://arxiv.org/abs/2504.16081",
+    "title": "Survey of Video Diffusion Models: Foundations, Implementations, and Applications",
+    "date": "2025-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "hf-2104.10157",
+    "url": "https://huggingface.co/papers/2104.10157",
+    "title": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+    "date": "2021-04-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "hf-2212.05199",
+    "url": "https://huggingface.co/papers/2212.05199",
+    "title": "MAGVIT: Masked Generative Video Transformer",
+    "date": "2022-12-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "hf-2310.05737",
+    "url": "https://huggingface.co/papers/2310.05737",
+    "title": "Language Model Beats Diffusion - Tokenizer is Key to Visual Generation (MAGVIT-v2)",
+    "date": "2023-10-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "hf-2312.14125",
+    "url": "https://huggingface.co/papers/2312.14125",
+    "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "date": "2023-12-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "hf-2409.18869",
+    "url": "https://huggingface.co/papers/2409.18869",
+    "title": "Emu3: Next-Token Prediction is All You Need",
+    "date": "2024-09-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "web-trtllm",
+    "url": "https://nvidia.github.io/TensorRT-LLM/blogs/tech_blog/blog25_Scaling_Video_Generation_Across_NVL72_Rack_with_TensorRT-LLM.html",
+    "title": "Scaling Video Generation Across an NVL72 Rack with TensorRT-LLM",
+    "date": "2025-09-25",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "web-svg",
+    "url": "https://proceedings.mlr.press/v267/xi25c.html",
+    "title": "Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity",
+    "date": "2025-10-06",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "web-adacache",
+    "url": "https://arxiv.org/abs/2411.02397",
+    "title": "Adaptive Caching for Faster Video Generation with Diffusion Transformers (AdaCache)",
+    "date": "2024-11-04",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "web-dmd2",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/54dcf25318f9de5a7a01f0a4125c541e-Paper-Conference.pdf",
+    "title": "Improved Distribution Matching Distillation for Fast Image Synthesis (DMD2), NeurIPS 2024",
+    "date": "2024-12-10",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "arxiv-2511.18870",
+    "url": "https://arxiv.org/abs/2511.18870",
+    "title": "HunyuanVideo 1.5 Technical Report",
+    "date": "2025-11-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "arxiv-2604.15911",
+    "url": "https://arxiv.org/abs/2604.15911",
+    "title": "Efficient Video Diffusion Models: Advancements and Challenges",
+    "date": "2026-04-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "arxiv-1812.01717",
+    "url": "https://arxiv.org/abs/1812.01717",
+    "title": "Towards Accurate Generative Models of Video: A New Metric and Challenges (FVD)",
+    "date": "2018-12-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "web-fvd-bias",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_On_the_Content_Bias_in_Frechet_Video_Distance_CVPR_2024_paper.pdf",
+    "title": "On the Content Bias in Frechet Video Distance (CVPR 2024)",
+    "date": "2024-06-17",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "web-jedi",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/a57483b394a3654f4317051e4ce3b2b8-Paper-Conference.pdf",
+    "title": "Beyond FVD: JEDi (JEPA Embedding Distance), ICLR 2025",
+    "date": "2025-04-24",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "arxiv-2311.17982",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "arxiv-2503.21755",
+    "url": "https://arxiv.org/abs/2503.21755",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness",
+    "date": "2025-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "arxiv-2310.11440",
+    "url": "https://arxiv.org/abs/2310.11440",
+    "title": "EvalCrafter: Benchmarking and Evaluating Large Video Generation Models",
+    "date": "2023-10-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "hf-2407.14505",
+    "url": "https://huggingface.co/papers/2407.14505",
+    "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+    "date": "2024-07-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "web-genie3",
+    "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
+    "title": "Genie 3: A new frontier for world models",
+    "date": "2025-08-05",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "arxiv-2408.14837",
+    "url": "https://arxiv.org/abs/2408.14837",
+    "title": "Diffusion Models Are Real-Time Game Engines (GameNGen)",
+    "date": "2024-08-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "web-marble",
+    "url": "https://www.worldlabs.ai/blog/marble-world-model",
+    "title": "Marble: A Multimodal World Model (World Labs)",
+    "date": "2025-11-12",
+    "source": "web"
+  },
+  {
+    "n": 26,
+    "id": "hf-2508.00795",
+    "url": "https://huggingface.co/papers/2508.00795",
+    "title": "Video Generators are Robot Policies",
+    "date": "2025-08-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "hf-2511.11520",
+    "url": "https://huggingface.co/papers/2511.11520",
+    "title": "Scalable Policy Evaluation with Video World Models",
+    "date": "2025-11-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "arxiv-2502.20694",
+    "url": "https://arxiv.org/abs/2502.20694",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "2025-02-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "web-physics-survey",
+    "url": "https://arxiv.org/html/2503.21765v1",
+    "title": "Exploring the Evolution of Physics Cognition in Video Generation: A Survey",
+    "date": "2025-03-27",
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "arxiv-2304.08818",
+    "url": "https://arxiv.org/abs/2304.08818",
+    "title": "Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models (Video LDM)",
+    "date": "2023-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 31,
+    "id": "hf-2402.17177",
+    "url": "https://huggingface.co/papers/2402.17177",
+    "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "date": "2024-02-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 32,
+    "id": "arxiv-2412.07772",
+    "url": "https://arxiv.org/abs/2412.07772",
+    "title": "From Slow Bidirectional to Fast Autoregressive Video Diffusion Models (CausVid)",
+    "date": "2024-12-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "web-causvid",
+    "url": "https://causvid.github.io/",
+    "title": "CausVid: From Slow Bidirectional to Fast Autoregressive Video Diffusion Models (project page)",
+    "date": "2024-12-10",
+    "source": "web"
+  },
+  {
+    "n": 34,
+    "id": "hf-2602.02214",
+    "url": "https://huggingface.co/papers/2602.02214",
+    "title": "Causal Forcing: Autoregressive Diffusion Distillation Done Right",
+    "date": "2026-02-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 35,
+    "id": "web-interactive-survey",
+    "url": "https://arxiv.org/html/2504.21853v1",
+    "title": "A Survey of Interactive Generative Video",
+    "date": "2025-04-30",
+    "source": "web"
+  },
+  {
+    "n": 36,
+    "id": "hf-2311.10709",
+    "url": "https://huggingface.co/papers/2311.10709",
+    "title": "Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning",
+    "date": "2023-11-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 37,
+    "id": "hf-2405.09818",
+    "url": "https://huggingface.co/papers/2405.09818",
+    "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+    "date": "2024-05-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 38,
+    "id": "hf-2312.09109",
+    "url": "https://huggingface.co/papers/2312.09109",
+    "title": "VideoLCM: Video Latent Consistency Model",
+    "date": "2023-12-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 39,
+    "id": "hf-2412.03603",
+    "url": "https://huggingface.co/papers/2412.03603",
+    "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+    "date": "2024-12-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 40,
+    "id": "hf-2501.00103",
+    "url": "https://huggingface.co/papers/2501.00103",
+    "title": "LTX-Video: Realtime Video Latent Diffusion",
+    "date": "2024-12-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 41,
+    "id": "hf-2410.13720",
+    "url": "https://huggingface.co/papers/2410.13720",
+    "title": "Movie Gen: A Cast of Media Foundation Models",
+    "date": "2024-10-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 42,
+    "id": "arxiv-2502.10248",
+    "url": "https://arxiv.org/abs/2502.10248",
+    "title": "Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model",
+    "date": "2025-02-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 43,
+    "id": "hf-2610.12458",
+    "url": "https://huggingface.co/papers/2610.12458",
+    "title": "OmniCapBench: Deep-Structured Evaluation for Fine-Grained Audio-Visual Captioning",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 44,
+    "id": "hf-2404.02101",
+    "url": "https://huggingface.co/papers/2404.02101",
+    "title": "CameraCtrl: Enabling Camera Control for Text-to-Video Generation",
+    "date": "2024-04-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 45,
+    "id": "hf-2312.03641",
+    "url": "https://huggingface.co/papers/2312.03641",
+    "title": "MotionCtrl: A Unified and Flexible Motion Controller for Video Generation",
+    "date": "2023-12-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 46,
+    "id": "hf-2311.16933",
+    "url": "https://huggingface.co/papers/2311.16933",
+    "title": "SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models",
+    "date": "2023-11-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 47,
+    "id": "hf-2501.06187",
+    "url": "https://huggingface.co/papers/2501.06187",
+    "title": "Multi-subject Open-set Personalization in Video Generation (Video Alchemist)",
+    "date": "2025-01-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 48,
+    "id": "hf-2412.15322",
+    "url": "https://huggingface.co/papers/2412.15322",
+    "title": "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis (MMAudio)",
+    "date": "2024-12-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 49,
+    "id": "hf-2311.17590",
+    "url": "https://huggingface.co/papers/2311.17590",
+    "title": "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis",
+    "date": "2023-11-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 50,
+    "id": "hf-2509.08826",
+    "url": "https://huggingface.co/papers/2509.08826",
+    "title": "RewardDance: Reward Scaling in Visual Generation",
+    "date": "2025-09-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 51,
+    "id": "web-opensora",
+    "url": "https://arxiv.org/html/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-31",
+    "source": "web"
+  },
+  {
+    "n": 52,
+    "id": "hf-2502.04393",
+    "url": "https://huggingface.co/papers/2502.04393",
+    "title": "UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation",
+    "date": "2025-02-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 53,
+    "id": "hf-2508.21058",
+    "url": "https://huggingface.co/papers/2508.21058",
+    "title": "Mixture of Contexts for Long Video Generation",
+    "date": "2025-08-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 54,
+    "id": "hf-2610.06801",
+    "url": "https://huggingface.co/papers/2610.06801",
+    "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+    "date": "2026-10-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 55,
+    "id": "hf-2510.02283",
+    "url": "https://huggingface.co/papers/2510.02283",
+    "title": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
+    "date": "2025-10-02",
+    "source": "hf-daily"
+  },
+  {
+    "n": 56,
+    "id": "hf-2511.01266",
+    "url": "https://huggingface.co/papers/2511.01266",
+    "title": "MotionStream: Real-Time Video Generation with Interactive Motion Controls",
+    "date": "2025-11-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 57,
+    "id": "hf-2510.18692",
+    "url": "https://huggingface.co/papers/2510.18692",
+    "title": "MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation",
+    "date": "2025-10-21",
+    "source": "hf-daily"
+  },
+  {
+    "n": 58,
+    "id": "hf-2605.30351",
+    "url": "https://huggingface.co/papers/2605.30351",
+    "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+    "date": "2026-05-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 59,
+    "id": "hf-2402.19479",
+    "url": "https://huggingface.co/papers/2402.19479",
+    "title": "Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers",
+    "date": "2024-02-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 60,
+    "id": "hf-2311.15127",
+    "url": "https://huggingface.co/papers/2311.15127",
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "date": "2023-11-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 61,
+    "id": "web-genie2",
+    "url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+    "title": "Genie 2: A large-scale foundation world model",
+    "date": "2024-12-04",
+    "source": "web"
+  },
+  {
+    "n": 62,
+    "id": "hf-2508.13009",
+    "url": "https://huggingface.co/papers/2508.13009",
+    "title": "Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model",
+    "date": "2025-08-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 63,
+    "id": "hf-2604.08995",
+    "url": "https://huggingface.co/papers/2604.08995",
+    "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
+    "date": "2026-04-10",
+    "source": "hf-daily"
+  },
+  {
+    "n": 64,
+    "id": "hf-2609.24984",
+    "url": "https://huggingface.co/papers/2609.24984",
+    "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "date": "2026-09-21",
+    "source": "hf-daily"
+  },
+  {
+    "n": 65,
+    "id": "arxiv-2301.04104",
+    "url": "https://arxiv.org/abs/2301.04104",
+    "title": "Mastering Diverse Domains through World Models (DreamerV3)",
+    "date": "2023-01-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 66,
+    "id": "web-dreamerv3-nature",
+    "url": "https://www.nature.com/articles/s41586-025-08744-2",
+    "title": "Mastering diverse control tasks through world models (DreamerV3, Nature)",
+    "date": "2025-04-02",
+    "source": "web"
+  },
+  {
+    "n": 67,
+    "id": "hf-2509.24527",
+    "url": "https://huggingface.co/papers/2509.24527",
+    "title": "Training Agents Inside of Scalable World Models (Dreamer 4)",
+    "date": "2025-09-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 68,
+    "id": "hf-2610.12468",
+    "url": "https://huggingface.co/papers/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 69,
+    "id": "hf-2610.12459",
+    "url": "https://huggingface.co/papers/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 70,
+    "id": "web-cosmos",
+    "url": "https://blogs.nvidia.com/blog/cosmos-world-foundation-models/",
+    "title": "NVIDIA Makes Cosmos World Foundation Models Openly Available",
+    "date": "2025-01-06",
+    "source": "web"
+  },
+  {
+    "n": 71,
+    "id": "hf-2510.15742",
+    "url": "https://huggingface.co/papers/2510.15742",
+    "title": "Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset (Ditto/Editto)",
+    "date": "2025-10-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 72,
+    "id": "hf-2403.14939",
+    "url": "https://huggingface.co/papers/2403.14939",
+    "title": "STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians",
+    "date": "2024-03-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 73,
+    "id": "hf-2411.00225",
+    "url": "https://huggingface.co/papers/2411.00225",
+    "title": "Fashion-VDM: Video Diffusion Model for Virtual Try-On",
+    "date": "2024-10-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 74,
+    "id": "web-timeline",
+    "url": "https://hidekazu-konishi.com/entry/image_and_video_generation_model_release_timeline.html",
+    "title": "Image and Video Generation Model Release Timeline",
+    "date": "2025-12-01",
+    "source": "web"
+  },
+  {
+    "n": 75,
+    "id": "web-wan",
+    "url": "https://arxiv.org/html/2503.20314v2",
+    "title": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "date": "2025-03-26",
+    "source": "web"
+  }
+]
